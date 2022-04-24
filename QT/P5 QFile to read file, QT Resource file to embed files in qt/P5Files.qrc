@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/myFile">
+        <file>P5.pro</file>
+    </qresource>
+</RCC>
