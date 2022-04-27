@@ -7,6 +7,8 @@ myTreeWidget::myTreeWidget(QWidget *parent) :
 {
     ui->setupUi(this);
     ui->treeWidget->setColumnCount(1);
+//    ui->treeWidget->setHeader("Item names");
+    ui->treeWidget->setHeaderLabels(QStringList()<<"Item names");
     QTreeWidgetItem *item=new QTreeWidgetItem(ui->treeWidget);
         item->setText(0,"Hi");
         ui->treeWidget->addTopLevelItem(item);
