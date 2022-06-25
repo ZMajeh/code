@@ -1,0 +1,7 @@
+<Contacts>
+ <Person Mobile="Person_Mobile_0" Phone="Person_Phone_0" Job="Person_Job_0" Name="Person_Name_0" Age="Person_Age_0"/>
+ <Person Mobile="Person_Mobile_1" Phone="Person_Phone_1" Job="Person_Job_1" Name="Person_Name_1" Age="Person_Age_1"/>
+ <Person Mobile="Person_Mobile_2" Phone="Person_Phone_2" Job="Person_Job_2" Name="Person_Name_2" Age="Person_Age_2"/>
+ <Person Mobile="Person_Mobile_3" Phone="Person_Phone_3" Job="Person_Job_3" Name="Person_Name_3" Age="Person_Age_3"/>
+ <Person Mobile="Person_Mobile_4" Phone="Person_Phone_4" Job="Person_Job_4" Name="Person_Name_4" Age="Person_Age_4"/>
+</Contacts>
