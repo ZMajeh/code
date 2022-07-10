@@ -1,0 +1,17 @@
+C:\Users\mundh\Documents\VB\WFVB1\WFVB1\bin\Debug\net6.0-windows\WFVB1.exe
+C:\Users\mundh\Documents\VB\WFVB1\WFVB1\bin\Debug\net6.0-windows\WFVB1.deps.json
+C:\Users\mundh\Documents\VB\WFVB1\WFVB1\bin\Debug\net6.0-windows\WFVB1.runtimeconfig.json
+C:\Users\mundh\Documents\VB\WFVB1\WFVB1\bin\Debug\net6.0-windows\WFVB1.dll
+C:\Users\mundh\Documents\VB\WFVB1\WFVB1\bin\Debug\net6.0-windows\WFVB1.pdb
+C:\Users\mundh\Documents\VB\WFVB1\WFVB1\obj\Debug\net6.0-windows\WFVB1.vbproj.AssemblyReference.cache
+C:\Users\mundh\Documents\VB\WFVB1\WFVB1\obj\Debug\net6.0-windows\WFVB1.Form1.resources
+C:\Users\mundh\Documents\VB\WFVB1\WFVB1\obj\Debug\net6.0-windows\WFVB1.vbproj.GenerateResource.cache
+C:\Users\mundh\Documents\VB\WFVB1\WFVB1\obj\Debug\net6.0-windows\WFVB1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mundh\Documents\VB\WFVB1\WFVB1\obj\Debug\net6.0-windows\WFVB1.AssemblyInfoInputs.cache
+C:\Users\mundh\Documents\VB\WFVB1\WFVB1\obj\Debug\net6.0-windows\WFVB1.AssemblyInfo.vb
+C:\Users\mundh\Documents\VB\WFVB1\WFVB1\obj\Debug\net6.0-windows\WFVB1.vbproj.CoreCompileInputs.cache
+C:\Users\mundh\Documents\VB\WFVB1\WFVB1\obj\Debug\net6.0-windows\WFVB1.dll
+C:\Users\mundh\Documents\VB\WFVB1\WFVB1\obj\Debug\net6.0-windows\refint\WFVB1.dll
+C:\Users\mundh\Documents\VB\WFVB1\WFVB1\obj\Debug\net6.0-windows\WFVB1.pdb
+C:\Users\mundh\Documents\VB\WFVB1\WFVB1\obj\Debug\net6.0-windows\WFVB1.genruntimeconfig.cache
+C:\Users\mundh\Documents\VB\WFVB1\WFVB1\obj\Debug\net6.0-windows\ref\WFVB1.dll
