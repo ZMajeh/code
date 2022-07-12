@@ -1,0 +1,15 @@
+C:\Users\mundh\Documents\VB\CVB2\CVB2\obj\Debug\net6.0\CVB2.vbproj.AssemblyReference.cache
+C:\Users\mundh\Documents\VB\CVB2\CVB2\obj\Debug\net6.0\CVB2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mundh\Documents\VB\CVB2\CVB2\obj\Debug\net6.0\CVB2.AssemblyInfoInputs.cache
+C:\Users\mundh\Documents\VB\CVB2\CVB2\obj\Debug\net6.0\CVB2.AssemblyInfo.vb
+C:\Users\mundh\Documents\VB\CVB2\CVB2\obj\Debug\net6.0\CVB2.vbproj.CoreCompileInputs.cache
+C:\Users\mundh\Documents\VB\CVB2\CVB2\bin\Debug\net6.0\CVB2.exe
+C:\Users\mundh\Documents\VB\CVB2\CVB2\bin\Debug\net6.0\CVB2.deps.json
+C:\Users\mundh\Documents\VB\CVB2\CVB2\bin\Debug\net6.0\CVB2.runtimeconfig.json
+C:\Users\mundh\Documents\VB\CVB2\CVB2\bin\Debug\net6.0\CVB2.dll
+C:\Users\mundh\Documents\VB\CVB2\CVB2\bin\Debug\net6.0\CVB2.pdb
+C:\Users\mundh\Documents\VB\CVB2\CVB2\obj\Debug\net6.0\CVB2.dll
+C:\Users\mundh\Documents\VB\CVB2\CVB2\obj\Debug\net6.0\refint\CVB2.dll
+C:\Users\mundh\Documents\VB\CVB2\CVB2\obj\Debug\net6.0\CVB2.pdb
+C:\Users\mundh\Documents\VB\CVB2\CVB2\obj\Debug\net6.0\CVB2.genruntimeconfig.cache
+C:\Users\mundh\Documents\VB\CVB2\CVB2\obj\Debug\net6.0\ref\CVB2.dll
