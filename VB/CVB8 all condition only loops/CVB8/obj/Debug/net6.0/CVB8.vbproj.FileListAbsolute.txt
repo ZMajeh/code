@@ -1,0 +1,15 @@
+C:\Users\mundh\Documents\VB\CVB8\CVB8\bin\Debug\net6.0\CVB8.exe
+C:\Users\mundh\Documents\VB\CVB8\CVB8\bin\Debug\net6.0\CVB8.deps.json
+C:\Users\mundh\Documents\VB\CVB8\CVB8\bin\Debug\net6.0\CVB8.runtimeconfig.json
+C:\Users\mundh\Documents\VB\CVB8\CVB8\bin\Debug\net6.0\CVB8.dll
+C:\Users\mundh\Documents\VB\CVB8\CVB8\bin\Debug\net6.0\CVB8.pdb
+C:\Users\mundh\Documents\VB\CVB8\CVB8\obj\Debug\net6.0\CVB8.vbproj.AssemblyReference.cache
+C:\Users\mundh\Documents\VB\CVB8\CVB8\obj\Debug\net6.0\CVB8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mundh\Documents\VB\CVB8\CVB8\obj\Debug\net6.0\CVB8.AssemblyInfoInputs.cache
+C:\Users\mundh\Documents\VB\CVB8\CVB8\obj\Debug\net6.0\CVB8.AssemblyInfo.vb
+C:\Users\mundh\Documents\VB\CVB8\CVB8\obj\Debug\net6.0\CVB8.vbproj.CoreCompileInputs.cache
+C:\Users\mundh\Documents\VB\CVB8\CVB8\obj\Debug\net6.0\CVB8.dll
+C:\Users\mundh\Documents\VB\CVB8\CVB8\obj\Debug\net6.0\refint\CVB8.dll
+C:\Users\mundh\Documents\VB\CVB8\CVB8\obj\Debug\net6.0\CVB8.pdb
+C:\Users\mundh\Documents\VB\CVB8\CVB8\obj\Debug\net6.0\CVB8.genruntimeconfig.cache
+C:\Users\mundh\Documents\VB\CVB8\CVB8\obj\Debug\net6.0\ref\CVB8.dll
