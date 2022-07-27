@@ -1,0 +1,15 @@
+C:\Users\mundh\Documents\VB\CVB13\CVB13\bin\Debug\net6.0\CVB13.exe
+C:\Users\mundh\Documents\VB\CVB13\CVB13\bin\Debug\net6.0\CVB13.deps.json
+C:\Users\mundh\Documents\VB\CVB13\CVB13\bin\Debug\net6.0\CVB13.runtimeconfig.json
+C:\Users\mundh\Documents\VB\CVB13\CVB13\bin\Debug\net6.0\CVB13.dll
+C:\Users\mundh\Documents\VB\CVB13\CVB13\bin\Debug\net6.0\CVB13.pdb
+C:\Users\mundh\Documents\VB\CVB13\CVB13\obj\Debug\net6.0\CVB13.vbproj.AssemblyReference.cache
+C:\Users\mundh\Documents\VB\CVB13\CVB13\obj\Debug\net6.0\CVB13.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mundh\Documents\VB\CVB13\CVB13\obj\Debug\net6.0\CVB13.AssemblyInfoInputs.cache
+C:\Users\mundh\Documents\VB\CVB13\CVB13\obj\Debug\net6.0\CVB13.AssemblyInfo.vb
+C:\Users\mundh\Documents\VB\CVB13\CVB13\obj\Debug\net6.0\CVB13.vbproj.CoreCompileInputs.cache
+C:\Users\mundh\Documents\VB\CVB13\CVB13\obj\Debug\net6.0\CVB13.dll
+C:\Users\mundh\Documents\VB\CVB13\CVB13\obj\Debug\net6.0\refint\CVB13.dll
+C:\Users\mundh\Documents\VB\CVB13\CVB13\obj\Debug\net6.0\CVB13.pdb
+C:\Users\mundh\Documents\VB\CVB13\CVB13\obj\Debug\net6.0\CVB13.genruntimeconfig.cache
+C:\Users\mundh\Documents\VB\CVB13\CVB13\obj\Debug\net6.0\ref\CVB13.dll
