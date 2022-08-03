@@ -1,0 +1,15 @@
+C:\Users\mundh\Documents\VB\CVB19\CVB19\bin\Debug\net6.0\CVB19.exe
+C:\Users\mundh\Documents\VB\CVB19\CVB19\bin\Debug\net6.0\CVB19.deps.json
+C:\Users\mundh\Documents\VB\CVB19\CVB19\bin\Debug\net6.0\CVB19.runtimeconfig.json
+C:\Users\mundh\Documents\VB\CVB19\CVB19\bin\Debug\net6.0\CVB19.dll
+C:\Users\mundh\Documents\VB\CVB19\CVB19\bin\Debug\net6.0\CVB19.pdb
+C:\Users\mundh\Documents\VB\CVB19\CVB19\obj\Debug\net6.0\CVB19.vbproj.AssemblyReference.cache
+C:\Users\mundh\Documents\VB\CVB19\CVB19\obj\Debug\net6.0\CVB19.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mundh\Documents\VB\CVB19\CVB19\obj\Debug\net6.0\CVB19.AssemblyInfoInputs.cache
+C:\Users\mundh\Documents\VB\CVB19\CVB19\obj\Debug\net6.0\CVB19.AssemblyInfo.vb
+C:\Users\mundh\Documents\VB\CVB19\CVB19\obj\Debug\net6.0\CVB19.vbproj.CoreCompileInputs.cache
+C:\Users\mundh\Documents\VB\CVB19\CVB19\obj\Debug\net6.0\CVB19.dll
+C:\Users\mundh\Documents\VB\CVB19\CVB19\obj\Debug\net6.0\refint\CVB19.dll
+C:\Users\mundh\Documents\VB\CVB19\CVB19\obj\Debug\net6.0\CVB19.pdb
+C:\Users\mundh\Documents\VB\CVB19\CVB19\obj\Debug\net6.0\CVB19.genruntimeconfig.cache
+C:\Users\mundh\Documents\VB\CVB19\CVB19\obj\Debug\net6.0\ref\CVB19.dll
