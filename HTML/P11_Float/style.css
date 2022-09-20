@@ -1,0 +1,49 @@
+.l{
+    width: 100px;
+    height: 100px;
+    background-color: red;
+    float: left;
+    border: yellow 10px solid;
+}
+.r{
+    width: 100px;
+    height: 100px;
+    background-color: green;
+    float: right;
+    border: yellow 10px solid;
+}
+
+.marginClass{
+    width: 100px;
+    height: 100px;
+    background-color: pink;
+    border: yellow 10px solid;
+    margin: 500px;
+}
+
+.shadowClass{
+    width: 100px;
+    height: 100px;
+    background-color: grey;
+    margin: 100px;
+    box-shadow: 10px 10px 10px black;
+    border: yellow 10px solid;
+}
+
+.circleBorderClass{
+    width: 100px;
+    height: 100px;
+    background-color: rebeccapurple;
+    margin: 250px;
+    border-radius: 50px;
+    border: yellow 10px solid;
+}
+
+.transformClass{
+    width: 100px;
+    height: 100px;
+    background-color: darkcyan;
+    margin-left: 250px;
+    transform: rotate(60deg);
+    border: yellow 10px solid;
+}

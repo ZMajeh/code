@@ -1,0 +1,25 @@
+.con{
+    display: flex;
+    height: 400px;
+    flex-flow: wrap;
+    background-color: orange;
+    align-content: center;
+    align-content: flex-end;
+    align-content: flex-start;
+    align-content: space-around;
+    align-content: space-between;
+    align-content: stretch;/* Default */
+
+}
+.itm{
+    background-color: pink;
+    border: 5px solid blue;
+    align-self: center;    /* To do itemwise alignment */
+    justify-self: center;    /* To do itemwise alignment */
+    flex: 0 1 200px;
+    margin: 10px;
+}
+
+.i1{
+    align-self: stretch;
+}

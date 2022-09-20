@@ -1,0 +1,13 @@
+.container{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    /*Above 2 lines can be replaced with this*/
+    flex-flow: row wrap;
+}
+
+.box{
+    border: 5px solid blue;
+    margin:10px;
+    flex: 0 0 300px;
+}

@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Form</title>
+</head>
+<body>
+    <form action="index.html" method="post">
+        <label for="username">
+            User Name : 
+        </label>
+            <input id="username" placeholder="John_doe" required><br><br>
+        
+        <label for="password">
+                Password : 
+        </label>
+            <input id="password" type="password" required><br><br>
+        
+        
+        <label for="email">
+                    Email : 
+        </label>
+            <input id="email" type="email" required><br><br>
+
+        <label for="gender">
+            Gender: 
+        </label>
+        <label for="male">
+            Male
+        </label>
+            <input type="radio" name="Gender" id="male">
+
+        <label for="female">
+            Female
+        </label>
+            <input type="radio" name="Gender" id="female"><br><br>
+    
+        <label for="class">
+            Classes paid for years: 
+        </label>
+
+        <label for="class1">
+            1
+        </label>
+            <input type="checkbox" name="Class" id="class1">
+        
+        <label for="class2">
+            2
+        </label>
+            <input type="checkbox" name="Class" id="class2">
+        
+        <label for="class3">
+            3
+        </label>
+            <input type="checkbox" name="Class" id="class3"><br><br>
+
+        <label for="BD">
+            Birth Date:
+        </label>
+            <input type="date" name="BirthDate" id="BD" required><br><br>
+
+        <textarea placeholder="Comments" name="Comments" cols="80" rows="8"></textarea><br><br>
+
+        <input type="submit" value="Submit">
+    
+    </form>
+</body>
+</html>

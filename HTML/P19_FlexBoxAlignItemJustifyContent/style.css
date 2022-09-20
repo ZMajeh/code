@@ -1,0 +1,12 @@
+.container{
+    display: flex;
+    background-color: orange;
+    height: 300px;
+    flex-flow: row wrap;
+    align-items: center;
+    justify-content: space-evenly;
+}
+.box{
+    border: 5px solid blue;
+    flex: 0 0 100px;
+}
