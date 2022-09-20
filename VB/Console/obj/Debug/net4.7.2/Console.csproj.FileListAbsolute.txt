@@ -1,0 +1,5 @@
+/home/majeh/Documents/MyCSTest/Console/obj/Debug/net4.7.2/Console.csproj.SuggestedBindingRedirects.cache
+/home/majeh/Documents/MyCSTest/Console/obj/Debug/net4.7.2/Console.GeneratedMSBuildEditorConfig.editorconfig
+/home/majeh/Documents/MyCSTest/Console/obj/Debug/net4.7.2/Console.AssemblyInfoInputs.cache
+/home/majeh/Documents/MyCSTest/Console/obj/Debug/net4.7.2/Console.AssemblyInfo.cs
+/home/majeh/Documents/MyCSTest/Console/obj/Debug/net4.7.2/Console.csproj.CoreCompileInputs.cache

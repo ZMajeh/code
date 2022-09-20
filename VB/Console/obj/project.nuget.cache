@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "jSAI0BkqDaFKx2lsXnDa42Y20YJXOlW2GwaoY/94nzqYnLSiGI53M6ufTwmZB2m5fU1MBpptMfe8+sjjraKAlg==",
+  "success": true,
+  "projectFilePath": "/home/majeh/Documents/MyCSTest/Console/Console.csproj",
+  "expectedPackageFiles": [
+    "/home/majeh/.nuget/packages/microsoft.netcore.app.ref/5.0.0/microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "/home/majeh/.nuget/packages/microsoft.aspnetcore.app.ref/5.0.0/microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "/home/majeh/.nuget/packages/microsoft.netcore.app.host.linux-arm64/5.0.17/microsoft.netcore.app.host.linux-arm64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}
