@@ -1,0 +1,4 @@
+To create new project:
+    npx create-react-app <app_name>
+To run project:
+    npm start
