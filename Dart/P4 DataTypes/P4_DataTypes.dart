@@ -1,6 +1,7 @@
 int x = 100;
 double y = 10.01;
 String name = "Majeh";
+// This is unicode string
 Runes nameAgain = new Runes("Triya");
 bool itsTrue = true;
 bool itsFalse = false;
