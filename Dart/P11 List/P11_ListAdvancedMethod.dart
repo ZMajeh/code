@@ -38,7 +38,7 @@ void main()
   // List data 5 20 30 40 45 50
   print("My list : $myList");
 
-  // Remove index value
+  // Remove last index value
   var last = myList.removeLast();
   // List data 5 20 30 40 45
   print("My list : $myList, removed last value is $last");
