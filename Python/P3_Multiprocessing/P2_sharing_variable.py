@@ -1,5 +1,4 @@
-import time
-from multiprocessing import Process, Manager, Value
+from multiprocessing import Process, Manager
 
 # Method to increase shared var
 def just_increase(sharedNum):
